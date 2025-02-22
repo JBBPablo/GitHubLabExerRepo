@@ -1,0 +1,4 @@
+run 
+ask
+eat
+jump
