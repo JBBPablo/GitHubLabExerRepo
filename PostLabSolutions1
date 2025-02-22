@@ -1,9 +1,0 @@
-import statistics 
-
-mylist = [32, 52, 15, 10, 9, 8, 21]
-
-print("Mode: ",statistics.mode(mylist))
-
-print("Median: ",statistics.median(mylist))
-
-print("Mean: ",statistics.mean(mylist))
